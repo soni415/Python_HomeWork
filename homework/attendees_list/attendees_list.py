@@ -1,0 +1,33 @@
+attendees_list=[
+    {
+        "name":"Ilir",
+        "checked_in":True,
+        "ticket_type":"VIP",
+    },
+
+{
+        "name":"Ariana",
+        "checked_in":True,
+        "ticket_type":"Normal",
+    },
+{
+        "name":"Ena",
+        "checked_in":False,
+        "ticket_type":"Normal",
+    },
+{
+        "name":"Besmir",
+        "checked_in":True,
+        "ticket_type":"VIP",
+    },
+{
+        "name":"Marina",
+        "checked_in":True,
+        "ticket_type":"VIP",
+    },
+{
+        "name":"Gerti",
+        "checked_in":False,
+        "ticket_type":"Normal",
+    },
+]
