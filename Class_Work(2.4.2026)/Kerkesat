@@ -1,0 +1,8 @@
+1.Pa përdorur max() dhe min() të Python, shkruaj funksionet find_max(lista)
+dhe find_min(lista) që gjejnë vlerat ekstreme me loop
+
+2.Implemento selection_sort(lista). Çdo herë gjej minimumin e pjesës
+së parenditur dhe vendose në pozicionin e duhur.
+
+3.Shkruaj power(base, exp) rekursivisht pa përdorur operatorin **.
+power(2,0)=1, power(2,n)=2*power(2,n-1).
